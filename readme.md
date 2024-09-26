@@ -19,3 +19,6 @@
 
 ## Why?
 Made this because a lot of people have gotten this wrong so this is to make it easy to get set up quickly.
+
+## Requirments
+- git - <https://git-scm.com/downloads/win>
