@@ -8,13 +8,13 @@
 ### WebRequest
 - Open PowerShell and run the following command:
   ```powershell
-  Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yourusername/yourrepo/main/installer.sh" -OutFile "installer.sh"; ./installer.sh
+  Invoke-WebRequest -Uri "https://raw.githubusercontent.com/theBGuy/kolbot-soloplay-installer/master/installer.sh" -OutFile "installer.sh"; ./installer.sh
   ```
 
 ### curl
-- Open PowerShell and run the following command:
-  ```powershell
-  curl -sL "https://raw.githubusercontent.com/yourusername/yourrepo/main/installer.sh" | bash
+- Open cmd and run the following command:
+  ```bash
+  curl -sL "https://raw.githubusercontent.com/theBGuy/kolbot-soloplay-installer/master/installer.sh" | bash
   ```
 
 ## Why?
