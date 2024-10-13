@@ -1,5 +1,8 @@
 # Quick Kolbot/SoloPlay installer
 
+## Why?
+Made this because a lot of people have gotten this wrong so this is to make it easy to get set up quickly.
+
 ## How to use
 - Download this repo
 - Open up the repo in powershell and run `.\installer.sh`
@@ -17,8 +20,8 @@
   curl -sL "https://raw.githubusercontent.com/theBGuy/kolbot-soloplay-installer/master/installer.sh" | bash
   ```
 
-## Why?
-Made this because a lot of people have gotten this wrong so this is to make it easy to get set up quickly.
-
 ## Requirments
 - git - <https://git-scm.com/downloads/win>
+
+## Troubleshooting
+- Try running as admin, this needs privalages to be able to copy the folder contents and write to file
